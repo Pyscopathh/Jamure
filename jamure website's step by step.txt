@@ -630,7 +630,7 @@ HTML:
   <!-- Profile -->
   <div class="profile-box">
     <img src="/images/profile.jpg" alt="profile">
-    <h2>Ishan</h2>
+    <h2>Zunitsu</h2>
     <p class="rank">Level 5 • Battlefield Explorer</p>
   </div>
 
