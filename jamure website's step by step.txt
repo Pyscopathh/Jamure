@@ -1,0 +1,950 @@
+
+Home:
+	hero section:
+		Jamure is built for college students who want more than just a degree. if you have skills, ideas or the willingness to learn, this is your space to turn them into real world opportunities. we help students to showcase their talent, work on real projects, and earn a decent income while still studying, because college like shouldn't be filled with financial stress - it should be a time to grow , explore and build your future with confidence.
+
+buttons:- Know us More , join jamure
+
+	intro section:
+		1)Refine your Skills
+			Forge yourself as a tempered blade, reach the utmost heights of your potentials with jamure 			battlefields.
+		2)Earn and Learn  Simultaneously
+			master your skills in the battlefield, and turn them into income through real projects. 			jamure bridges learning and earning so your growth never goes unpaid.
+		3)Win Obstacles through community
+			Jamure's community stands beside you, to help you solving problems, stay motivated and keep 			improving 
+
+
+	FAQ section:
+	Is jamure only for Indians?
+	Yes jamure is specially created for Indian native college students who want to implement their skills and 	earn at the same time
+
+	Login form
+
+
+Create Blogs
+
+1) Blog 1:
+
+Blog Heading:
+“AI in 2026: The Rapid Evolution That’s Reshaping How We Work, Create, and Think” 🤖🚀
+
+Blog Content:
+
+Artificial Intelligence is evolving at a pace never seen before. In 2026, AI is no longer limited to chatbots and simple automation—it is now actively assisting in coding, content creation, medical diagnostics, and even decision-making in businesses. These rapid updates are making AI a core part of everyday digital life rather than just a futuristic concept.
+
+One of the biggest recent updates in AI is the rise of multimodal systems. Modern AI models can now understand and generate text, images, audio, and video simultaneously. This allows users to create complete projects—from scripts to visuals—using a single platform, saving both time and effort. 🎥🧠
+
+Another major shift is the integration of AI into productivity tools. From smart email drafting to AI-assisted coding and automated research summaries, AI is becoming a silent partner in professional workspaces. This is especially helpful for students, developers, and content creators who need faster and more accurate outputs.
+
+However, with these advancements come concerns about data privacy, job displacement, and ethical use of AI. Governments and tech companies are now focusing on building responsible AI frameworks to ensure that innovation does not come at the cost of safety or fairness.
+
+AI updates are no longer just tech news—they are shaping education, careers, and the global economy. Staying updated with these changes is essential for anyone who wants to remain relevant in a rapidly transforming digital world. 🌍✨
+
+If you want, I can also format this into a full SEO-optimized blog with keywords, meta description, and subheadings.
+
+
+
+Blog 2:
+Blog Heading:
+“The Dark Side of AI: Understanding the Growing Threats in the Age of Artificial Intelligence” ⚠️🤖
+
+Blog Content:
+
+Artificial Intelligence is transforming industries and improving productivity, but alongside its benefits, it also brings serious risks. As AI systems become more powerful and accessible, they are increasingly being misused for harmful purposes such as cyberattacks, misinformation, and privacy invasion. Understanding these threats is essential to using AI responsibly.
+
+One of the most concerning threats is the rise of deepfakes and AI-generated misinformation. With advanced AI tools, it is now possible to create realistic fake videos, images, and audio that can manipulate public opinion, damage reputations, and spread false information rapidly across social media platforms. 📢🧠
+
+Cybersecurity is another major area where AI is being used both as a defense and as a weapon. Hackers are using AI to automate phishing attacks, crack passwords faster, and identify system vulnerabilities. This makes cyber threats more sophisticated and harder to detect compared to traditional attacks.
+
+AI also raises serious concerns about data privacy. Many AI systems rely on massive datasets to function effectively, which often include personal information. If this data is misused, leaked, or accessed without consent, it can lead to identity theft, surveillance, and loss of personal security.
+
+Additionally, there are fears about job displacement as AI continues to automate tasks previously performed by humans. While AI creates new opportunities, it also threatens certain roles, especially in customer service, data entry, and basic content creation.
+
+To reduce these risks, governments and organizations are working on AI regulations, ethical guidelines, and improved security frameworks. Public awareness, digital literacy, and responsible AI development will play a key role in ensuring that AI remains a tool for progress rather than a source of harm. 🛡️✨
+
+If you want, I can also create a version of this blog tailored for students, tech professionals, or general readers with different tone and length.
+
+
+Blog 3:
+Blog Title:
+“Top 10 Open-Source Big Data Tools You Should Know in 2026” 📊🐘
+
+Introduction
+In today’s data-driven world, organizations generate massive amounts of information every second. To store, process, and analyze this data efficiently, open-source big data tools have become essential. They are cost-effective, scalable, and backed by strong developer communities, making them ideal for startups, enterprises, and students learning data engineering.
+
+1. Apache Hadoop
+
+Apache Hadoop is one of the most widely used frameworks for distributed storage and batch processing. It uses HDFS for storage and MapReduce for processing large datasets across clusters.
+
+Use case: Large-scale data storage and offline processing.
+
+2. Apache Spark
+
+Apache Spark is known for its high-speed in-memory data processing, making it much faster than traditional Hadoop MapReduce. It supports SQL, machine learning, and real-time analytics in one platform. ⚡
+
+Use case: Real-time analytics and machine learning workflows.
+
+3. Apache Kafka
+
+Kafka is a distributed streaming platform that enables real-time data pipelines and event streaming between systems.
+
+Use case: Real-time data ingestion, log monitoring, and messaging systems 📡
+
+4. Apache Hive
+
+Hive allows users to run SQL-like queries on large datasets stored in Hadoop, making big data accessible to non-programmers.
+
+Use case: Data warehousing and analytics using familiar SQL syntax.
+
+5. Apache HBase
+
+HBase is a NoSQL database built on Hadoop that provides fast, real-time read and write access to large datasets.
+
+Use case: Applications that require quick random access to big data.
+
+6. Apache Flink
+
+Flink is a powerful stream-processing framework designed for high-performance and low-latency data processing.
+
+Use case: Real-time event processing and complex streaming analytics.
+
+7. Apache Cassandra
+
+Cassandra is a distributed NoSQL database known for high availability and scalability without a single point of failure.
+
+Use case: Applications needing always-on performance and global data distribution 🌍
+
+8. Elasticsearch
+
+Elasticsearch is a search and analytics engine used to store, search, and analyze large volumes of data quickly.
+
+Use case: Log analysis, full-text search, and monitoring dashboards.
+
+9. Apache Pig
+
+Pig provides a high-level scripting language called Pig Latin to simplify writing Hadoop MapReduce programs.
+
+Use case: Simplifying complex data transformations in Hadoop.
+
+10. Presto (Trino)
+
+Presto is a distributed SQL query engine that allows fast queries across multiple data sources without moving data.
+
+Use case: Interactive analytics and querying data lakes.
+
+Conclusion
+Open-source big data tools have revolutionized how organizations manage and analyze data. From batch processing with Hadoop to real-time streaming with Kafka and Flink, each tool serves a specific purpose in the big data ecosystem. Choosing the right combination of these tools can significantly improve data performance, scalability, and decision-making. 🚀
+
+
+Blog 4:
+
+Top 10 Big Data Software and Their Guaranteed Features in 2026 📊🚀
+Introduction
+
+Big data software plays a crucial role in managing, processing, and analyzing massive volumes of information generated every day. Businesses rely on these tools to extract insights, improve decision-making, and maintain competitive advantage. The best big data software offers guaranteed features such as scalability, real-time processing, fault tolerance, and high performance.
+
+1. Apache Hadoop
+
+Key Features:
+
+Distributed storage using HDFS
+Fault tolerance through data replication
+Scalable across thousands of nodes
+
+Hadoop is ideal for storing and processing large datasets across clusters at low cost.
+
+2. Apache Spark
+
+Key Features:
+
+In-memory processing for high speed ⚡
+Built-in libraries for machine learning and SQL
+Supports batch and real-time analytics
+
+Spark is widely used when fast data processing is required.
+
+3. Apache Kafka
+
+Key Features:
+
+Real-time data streaming
+High throughput and low latency
+Durable message storage
+
+Kafka is essential for building real-time data pipelines and event-driven systems.
+
+4. Apache Hive
+
+Key Features:
+
+SQL-like querying with HiveQL
+Easy integration with Hadoop ecosystem
+Suitable for data warehousing tasks
+
+Hive simplifies big data analysis for users familiar with SQL.
+
+5. Apache Cassandra
+
+Key Features:
+
+Highly scalable NoSQL database
+No single point of failure
+Designed for high write and read speeds
+
+Cassandra is used in applications that require continuous availability.
+
+6. Apache Flink
+
+Key Features:
+
+True real-time stream processing
+Low latency and high fault tolerance
+Handles complex event processing
+
+Flink is preferred for advanced streaming analytics.
+
+7. MongoDB
+
+Key Features:
+
+Flexible document-based storage
+Horizontal scaling with sharding
+Strong developer support and ecosystem
+
+MongoDB is widely used for storing semi-structured big data.
+
+8. Elasticsearch
+
+Key Features:
+
+Fast full-text search and indexing
+Real-time data analysis
+Scalable and distributed architecture 🔍
+
+Elasticsearch is commonly used in log analysis and search engines.
+
+9. Cloudera Data Platform (CDP)
+
+Key Features:
+
+Enterprise-grade security
+Hybrid cloud support
+Integrated big data ecosystem
+
+CDP provides a complete big data solution for large organizations.
+
+10. Google BigQuery
+
+Key Features:
+
+Serverless data warehouse
+Handles petabyte-scale queries
+Built-in machine learning capabilities
+
+BigQuery is powerful for organizations that prefer cloud-based analytics.
+
+Conclusion
+
+Modern big data software guarantees features like scalability, reliability, and real-time processing. Whether an organization needs on-premise solutions like Hadoop or cloud-based platforms like BigQuery, choosing the right software depends on workload, data volume, and budget. With the right tools, businesses can transform raw data into valuable insights and strategic advantages. 📈
+
+
+Blog 5:
+
+Blog Title:
+“Thoughts on Config 2025: How Figma’s Latest Updates Are Redefining the Design Workflow” 🎨🚀
+
+Introduction
+
+Figma’s annual Config conference has become one of the most anticipated events in the design and product community. Config 2025 introduced several powerful updates that focus on automation, AI-assisted design, and deeper collaboration. These changes aim to make the design process faster, more intelligent, and more connected across teams.
+
+AI-Powered Design Assistance
+
+One of the biggest highlights of Config 2025 was Figma’s expansion into AI-driven features. Designers can now generate layouts, suggest components, and automate repetitive design tasks using AI. This significantly reduces the time spent on wireframing and allows designers to focus more on creativity and user experience. 🤖✨
+
+Improved Dev Mode and Handoff
+
+Figma has continued to strengthen its Dev Mode, making it easier for developers to inspect designs, copy production-ready code, and understand design tokens. The updated handoff process ensures fewer miscommunications between designers and developers, resulting in faster and more accurate product development.
+
+Advanced Prototyping and Interaction Updates
+
+Config 2025 introduced more powerful prototyping capabilities, including advanced animation controls, conditional logic, and smoother transitions. These updates allow designers to create realistic prototypes that closely mimic actual app behavior, making usability testing more effective.
+
+Enhanced Collaboration Features
+
+Figma has always been known for real-time collaboration, but the new updates take teamwork even further. Features like improved comments, version history insights, and better branching make it easier for large teams to work on complex design systems without conflicts. 👥💬
+
+Design Systems and Component Improvements
+
+Another important update is the improvement in managing design systems. Figma now provides better component tracking, usage analytics, and version control, helping teams maintain consistency across large projects. This is especially valuable for companies managing multiple products or platforms.
+
+Impact on the Design Industry
+
+The updates announced at Config 2025 show that Figma is not just a design tool anymore—it is becoming a complete product development platform. With AI, developer tools, and collaboration all integrated into one ecosystem, the gap between design and development continues to shrink.
+
+Conclusion
+
+Config 2025 made it clear that the future of design lies in intelligent tools and seamless teamwork. Figma’s updates are set to reshape how designers, developers, and product teams collaborate, making workflows faster, smarter, and more efficient. For anyone in UI/UX, staying updated with these changes is essential to remain competitive in the evolving design landscape. 🎯
+
+
+Blog 6:
+
+Claude Code’s Massive Updates: What They Mean for Developers and AI Workflows in 2026 🤖💻
+Introduction
+
+AI coding assistants are evolving rapidly, and Claude Code’s latest updates have positioned it as one of the most powerful tools for developers. With improvements in reasoning, code generation, debugging, and long-context understanding, Claude is becoming more than just a chatbot—it is turning into a full development partner.
+
+Smarter Code Generation and Understanding
+
+One of the biggest updates is Claude’s improved ability to generate clean, production-ready code. It now understands complex instructions, multi-file projects, and system architecture much better than before. This allows developers to describe entire features in plain English and receive structured, working code in return. ⚙️
+
+Massive Context Window for Large Projects
+
+Claude’s expanded context window is a major breakthrough. Developers can now paste thousands of lines of code, documentation, or logs, and Claude can still maintain context while providing accurate suggestions and fixes. This is especially useful for large-scale applications where traditional AI tools often lose track of details.
+
+Better Debugging and Error Explanation
+
+The new updates significantly improve Claude’s debugging capabilities. It can now:
+
+Identify logic errors
+Suggest optimized solutions
+Explain bugs in simple language
+
+This makes it useful not just for professionals but also for students learning programming and trying to understand why their code fails. 🐞
+
+Enhanced Command-Line and IDE Integration
+
+Claude Code now integrates more deeply with developer workflows through terminal and IDE support. Developers can interact with Claude directly from their coding environment, reducing the need to switch between tools and speeding up the development process.
+
+Improved Security and Safe Code Suggestions
+
+Another important update is Claude’s focus on secure coding practices. It now flags potential vulnerabilities, insecure dependencies, and unsafe patterns while generating or reviewing code. This helps teams maintain higher security standards during development.
+
+Impact on the Developer Ecosystem
+
+With these updates, Claude is shifting from being a simple assistant to becoming a collaborative coding partner. It helps in planning, coding, testing, and documenting software, which can significantly reduce development time and effort.
+
+Conclusion
+
+Claude Code’s massive updates mark a major step forward in AI-assisted programming. With better context handling, smarter debugging, and deeper integration into development environments, it is reshaping how developers write and maintain software. As AI continues to evolve, tools like Claude are likely to become a standard part of every developer’s toolkit. 🚀
+
+
+About Us Page:
+
+<section>
+
+    <h1>About Us</h1>
+
+    <h2>Who We Are</h2>
+
+    <p>
+        Jamure is a student-first digital platform built exclusively for college and postgraduate students in India who want to earn, learn, and grow at the same time. We provide a safe and verified space where students can showcase their skills, take on freelance work, complete assignments, and gain real-world experience while still pursuing their education.
+    </p>
+
+    <p>
+        Jamure was founded with a simple belief: <strong>no student should have to choose between education and financial stability.</strong>
+    </p>
+
+    <h2>Our Story</h2>
+
+    <p>
+        Jamure was created by a college student who personally experienced the challenges of balancing academics, skill-building, and financial pressure. While many global freelancing platforms exist, they are often crowded, highly competitive, and not designed for students who are just starting out.
+    </p>
+
+    <p>
+        Jamure was built to fill this missing bridge in the Indian college ecosystem — a platform where students can start small, build confidence, earn ethically, and gradually step into the professional world.
+    </p>
+
+    <p><strong>Founder:</strong> [Name to be added]</p>
+    <p><strong>Founded In:</strong> [Year to be added]</p>
+
+    <h2>What "Jamure" Means</h2>
+
+    <p>
+        The name <strong>Jamure</strong> comes from Punjabi, where it refers to a person who cannot sit still — someone energetic, restless, and always active. It is also sometimes used playfully to describe someone with a monkey-like curiosity and constant motion.
+    </p>
+
+    <p>
+        We believe every student has that inner Jamura — a fire to improve, to explore, and to become independent. Jamure as a platform celebrates that energy and gives it direction.
+    </p>
+
+    <h2>Our Mission</h2>
+
+    <p>
+        <strong>To empower Indian college students to earn while they learn by providing a trusted, verified, and skill-driven marketplace built specifically for them.</strong>
+    </p>
+
+    <p>
+        We aim to remove financial stress from student life and replace it with opportunity, confidence, and real-world exposure.
+    </p>
+
+    <h2>Our Vision</h2>
+
+    <p>
+        <strong>To become India's most trusted student-only earning and talent platform, bridging the gap between academic learning and real industry experience.</strong>
+    </p>
+
+    <p>We envision a future where:</p>
+
+    <ul>
+        <li>Students graduate with both degrees and work experience</li>
+        <li>Talent is recognized early and nurtured properly</li>
+        <li>Learning and earning are treated as a right, not a privilege</li>
+    </ul>
+
+    <h2>What We Offer</h2>
+
+    <p>Jamure provides students with opportunities such as:</p>
+
+    <ul>
+        <li>Freelance projects from verified clients</li>
+        <li>Assignment assistance and academic task completion</li>
+        <li>Skill showcasing through portfolios and profiles</li>
+        <li>Real-world exposure to deadlines, clients, and professional communication</li>
+    </ul>
+
+    <p>
+        [Add detailed feature list here: messaging system, payment protection, skill badges, etc.]
+    </p>
+
+    <h2>Who Can Join</h2>
+
+    <p>Jamure is designed specifically for:</p>
+
+    <ul>
+        <li>Students currently pursuing graduation or post-graduation</li>
+        <li>Individuals under the age of 30</li>
+        <li>Indian students who can provide valid verification</li>
+    </ul>
+
+    <p>To maintain a safe and focused ecosystem, users must provide:</p>
+
+    <ul>
+        <li>Student ID card</li>
+        <li>College enrollment proof or course registration</li>
+    </ul>
+
+    <p>[Add verification process details here]</p>
+
+    <h2>Why Jamure Is Different</h2>
+
+    <p>
+        Unlike traditional freelancing platforms, Jamure is built with students at its core. Other platforms are often saturated with experienced professionals, making it difficult for beginners to get their first opportunity.
+    </p>
+
+    <p>Jamure solves this by:</p>
+
+    <ul>
+        <li>Creating a student-only environment</li>
+        <li>Allowing beginners to start with smaller, skill-building tasks</li>
+        <li>Ensuring fair competition among peers at similar stages</li>
+    </ul>
+
+    <h2>Our Core Values</h2>
+
+    <h3>1. Students First</h3>
+    <p>Every decision on Jamure is made with student growth, safety, and success in mind.</p>
+
+    <h3>2. Earn with Dignity</h3>
+    <p>We believe students should be able to earn in a respectful and ethical way without being exploited or underpaid.</p>
+
+    <h3>3. Real Skills, Real Experience</h3>
+    <p>Jamure focuses on meaningful work that builds practical knowledge, not just quick tasks that add no career value.</p>
+
+    <h3>4. Trust and Safety</h3>
+    <p>Verification ensures that both students and clients operate in a secure and accountable environment.</p>
+
+    <h3>5. Hustle and Independence</h3>
+    <p>We celebrate students who take initiative, stay curious, and constantly work toward becoming better versions of themselves.</p>
+
+    <h2>Our Long-Term Goal</h2>
+
+    <p>
+        Our long-term goal is to create an ecosystem where students graduate not only with academic knowledge but also with:
+    </p>
+
+    <ul>
+        <li>Work portfolios</li>
+        <li>Industry experience</li>
+        <li>Financial confidence</li>
+    </ul>
+
+    <p>
+        [Add roadmap or future plans here: mobile app, partnerships with colleges, internship programs, etc.]
+    </p>
+
+    <h2>Community and Responsibility</h2>
+
+    <p>
+        Jamure is not just a marketplace; it is a student community. We encourage collaboration, learning, and ethical work practices.
+    </p>
+
+    <p>
+        [Add information about community guidelines, student support, or mentorship programs here]
+    </p>
+
+    <h2>Legal and Compliance Information</h2>
+
+    <p><strong>Registered Company Name:</strong> [To be added]</p>
+    <p><strong>Headquarters:</strong> [City, State]</p>
+    <p><strong>Contact Email:</strong> [Email]</p>
+    <p><strong>Support Hours:</strong> [To be added]</p>
+
+    <h2>Get in Touch</h2>
+
+    <p>
+        If you are a student looking to start your earning journey or a client interested in working with verified student talent, we would love to hear from you.
+    </p>
+
+    <p><strong>Email:</strong> [To be added]</p>
+    <p><strong>Social Media:</strong> [Links to be added]</p>
+
+    <h2>A Message from the Founder</h2>
+
+    <p>
+        [Add a short personal message from the founder about why Jamure was created and what it aims to change in the Indian education and freelance ecosystem]
+    </p>
+
+</section>
+
+
+
+Create Menu
+1. Home
+2. services
+3. About us
+4. blogs
+5. Battlefield
+6. Products
+7. My Account
+
+Create Forms
+ Create from convertForms
+
+Cerate GalleryView
+ Create from spsimpleportfolio
+
+Create services Cards
+
+HTML for article page
+<div class="service-list">
+
+  <details class="service-item">
+    <summary>
+      <span class="title">Java Spring Backend System</span>
+      <span class="date">Submitted: 12 Mar 2026</span>
+    </summary>
+    <div class="service-body">
+      <p><b>Requirement:</b> REST API with authentication</p>
+      <p><b>Tech Stack:</b> Java, Spring Boot, MySQL</p>
+      <p><b>Payment:</b> ₹4500</p>
+      <p><b>Payment Method:</b> UPI</p>
+      <p><b>Submission Date:</b> 12 Mar 2026</p>
+      <a class="chat-btn" href="/contact">Start Chat</a>
+    </div>
+  </details>
+
+  <details class="service-item">
+    <summary>
+      <span class="title">Python Kivy Mobile App</span>
+      <span class="date">Submitted: 05 Feb 2026</span>
+    </summary>
+    <div class="service-body">
+      <p><b>Requirement:</b> Android app for note management</p>
+      <p><b>Tech Stack:</b> Python, Kivy, SQLite</p>
+      <p><b>Payment:</b> ₹3000</p>
+      <p><b>Payment Method:</b> Bank Transfer</p>
+      <p><b>Submission Date:</b> 05 Feb 2026</p>
+      <a class="chat-btn" href="/contact">Start Chat</a>
+    </div>
+  </details>
+
+  <details class="service-item">
+    <summary>
+      <span class="title">JavaScript Browser Game</span>
+      <span class="date">Submitted: 18 Jan 2026</span>
+    </summary>
+    <div class="service-body">
+      <p><b>Requirement:</b> 2D puzzle game with scoring system</p>
+      <p><b>Tech Stack:</b> JavaScript, HTML5 Canvas</p>
+      <p><b>Payment:</b> ₹2500</p>
+      <p><b>Payment Method:</b> UPI</p>
+      <p><b>Submission Date:</b> 18 Jan 2026</p>
+      <a class="chat-btn" href="/contact">Start Chat</a>
+    </div>
+  </details>
+
+</div>
+
+
+CSS -  custom css section
+.service-list {
+  max-width: 900px;
+  margin: auto;
+}
+
+.service-item {
+  margin-bottom: 12px;
+  border: 1px solid #00ff9c;
+  border-radius: 10px;
+  background: #0f0f0f;
+  color: #e0ffe0;
+}
+
+.service-item summary {
+  padding: 15px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  color: #00ff9c;
+  font-weight: bold;
+  list-style: none;
+}
+
+.service-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.service-body {
+  padding: 15px;
+  border-top: 1px solid #00ff9c;
+}
+
+.chat-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background: #00ff9c;
+  color: black;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+
+
+Step:
+Create Dashboard
+
+HTML:
+<div class="neon-dash">
+
+  <!-- Profile -->
+  <div class="profile-box">
+    <img src="/images/profile.jpg" alt="profile">
+    <h2>Ishan</h2>
+    <p class="rank">Level 5 • Battlefield Explorer</p>
+  </div>
+
+  <!-- Stats -->
+  <div class="neon-stats">
+    <div class="neon-card">
+      <h3>1250</h3>
+      <span>XP Points</span>
+    </div>
+
+    <div class="neon-card streak">
+      <h3>7 🔥</h3>
+      <span>Login Streak (Days)</span>
+    </div>
+
+    <div class="neon-card">
+      <h3>₹3200</h3>
+      <span>Total Earnings</span>
+    </div>
+
+    <div class="neon-card">
+      <h3>#12</h3>
+      <span>Global Rank</span>
+    </div>
+  </div>
+
+  <!-- XP Progress -->
+  <div class="xp-section">
+    <div class="xp-label">XP Progress</div>
+    <div class="xp-bar">
+      <div class="xp-fill" style="width:65%"></div>
+    </div>
+    <p>650 / 1000 XP to next level</p>
+  </div>
+
+  <!-- Battlefields -->
+  <div class="battlefields">
+    <h3>Battlefields</h3>
+    <div class="bf-grid">
+      <div class="bf-card">✍️ Copywriting</div>
+      <div class="bf-card">💻 Programming</div>
+      <div class="bf-card">🎨 UI/UX</div>
+    </div>
+  </div>
+
+  <!-- Activity -->
+  <div class="activity">
+    <h3>Recent Activity</h3>
+    <ul>
+      <li>Completed Landing Page Copy • +120 XP</li>
+      <li>Finished Python Project • +200 XP</li>
+      <li>Uploaded Portfolio UI • +80 XP</li>
+      <li>Daily Login Bonus • +50 XP</li>
+    </ul>
+  </div>
+
+</div>
+
+
+
+CSS - put it in template-> user.css
+
+
+.neon-dash {
+  max-width: 1100px;
+  margin: auto;
+  color: #0db339;
+  font-family: Arial, sans-serif;
+}
+
+/* Profile */
+.profile-box {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-box img {
+  width: 100px;
+  border-radius: 50%;
+  border: 3px solid #0db339;
+  box-shadow: 0 0 15px #0db339;
+}
+
+.rank {
+  color: #0db339;
+}
+
+/* Stat Cards */
+.neon-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  gap: 15px;
+}
+
+.neon-card {
+  background: #0f0f0f;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  border: 1px solid #0db339;
+  box-shadow: 0 0 10px rgba(0,255,156,0.4);
+}
+
+.neon-card h3 {
+  color: #0db339;
+  font-size: 28px;
+}
+
+.neon-card span {
+  font-size: 14px;
+  color: #aaffcc;
+}
+
+/* XP Bar */
+.xp-section {
+  margin-top: 25px;
+}
+
+.xp-bar {
+  height: 12px;
+  background: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #00ff9c;
+}
+
+.xp-fill {
+  height: 100%;
+  background: #0db339;
+  box-shadow: 0 0 10px #0db339;
+}
+
+/* Battlefields */
+.battlefields {
+  margin-top: 30px;
+}
+
+.bf-grid {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.bf-card {
+  background: #0f0f0f;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 1px solid #0db339;
+  box-shadow: 0 0 6px #0db339;
+}
+
+/* Activity */
+.activity {
+  margin-top: 30px;
+}
+
+.activity ul {
+  list-style: none;
+  padding: 0;
+}
+
+.activity li {
+  background: #0f0f0f;
+  padding: 12px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  border-left: 3px solid #0db339;
+}
+
+
+FOR FAQ cards
+
+<div style="background:#f5f5f5;padding:25px 22px;max-width:1520px;margin:auto;">
+
+    <h1 style="font-size:72px;font-weight:900;color:#000;margin-bottom:18px;line-height:1;font-family:Poppins,sans-serif;">
+        FAQ's
+    </h1>
+
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;">
+
+        <div style="background:#f8f8f8;border-radius:18px;padding:18px;min-height:180px;box-shadow:0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9);border:1px solid #d7d7d7;">
+            <h3 style="font-size:24px;font-weight:800;color:#000;margin-bottom:12px;font-family:Poppins,sans-serif;">
+                Is jamure is only for indians?
+            </h3>
+
+            <p style="font-size:18px;line-height:1.6;color:#111;font-family:Poppins,sans-serif;">
+                Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.
+            </p>
+        </div>
+
+        <div style="background:#f8f8f8;border-radius:18px;padding:18px;min-height:180px;box-shadow:0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9);border:1px solid #d7d7d7;">
+            <h3 style="font-size:24px;font-weight:800;color:#000;margin-bottom:12px;font-family:Poppins,sans-serif;">
+                Is jamure is only for indians?
+            </h3>
+
+            <p style="font-size:18px;line-height:1.6;color:#111;font-family:Poppins,sans-serif;">
+                Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.
+            </p>
+        </div>
+
+        <div style="background:#f8f8f8;border-radius:18px;padding:18px;min-height:180px;box-shadow:0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9);border:1px solid #d7d7d7;">
+            <h3 style="font-size:24px;font-weight:800;color:#000;margin-bottom:12px;font-family:Poppins,sans-serif;">
+                Is jamure is only for indians?
+            </h3>
+
+            <p style="font-size:18px;line-height:1.6;color:#111;font-family:Poppins,sans-serif;">
+                Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.
+            </p>
+        </div>
+
+        <div style="background:#f8f8f8;border-radius:18px;padding:18px;min-height:180px;box-shadow:0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9);border:1px solid #d7d7d7;">
+            <h3 style="font-size:24px;font-weight:800;color:#000;margin-bottom:12px;font-family:Poppins,sans-serif;">
+                Is jamure is only for indians?
+            </h3>
+
+            <p style="font-size:18px;line-height:1.6;color:#111;font-family:Poppins,sans-serif;">
+                Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.
+            </p>
+        </div>
+
+        <div style="background:#f8f8f8;border-radius:18px;padding:18px;min-height:180px;box-shadow:0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9);border:1px solid #d7d7d7;">
+            <h3 style="font-size:24px;font-weight:800;color:#000;margin-bottom:12px;font-family:Poppins,sans-serif;">
+                Is jamure is only for indians?
+            </h3>
+
+            <p style="font-size:18px;line-height:1.6;color:#111;font-family:Poppins,sans-serif;">
+                Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.
+            </p>
+        </div>
+
+        <div style="background:#f8f8f8;border-radius:18px;padding:18px;min-height:180px;box-shadow:0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9);border:1px solid #d7d7d7;">
+            <h3 style="font-size:24px;font-weight:800;color:#000;margin-bottom:12px;font-family:Poppins,sans-serif;">
+                Is jamure is only for indians?
+            </h3>
+
+            <p style="font-size:18px;line-height:1.6;color:#111;font-family:Poppins,sans-serif;">
+                Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+Final Code For Home Page
+
+<section style="display: flex; align-items: center;">
+<div style="margin: 16px;"><img src="images/Logos/mid logo.png" width="2400px" /></div>
+<div> 
+<h2 style="font-size: 64px; font-weight: 600;">Welcome Jamure</h2>
+<p>Jamure is built for college students who want more than just a degree. if you have skills, ideas or the willingness to learn, this is your space to turn them into real world opportunities. we help students to showcase their talent, work on real projects, and earn a decent income while still studying, because college like shouldn't be filled with financial stress - it should be a time to grow , explore and build your future with confidence.</p>
+<a style="display: inline-block; border: 1px solid #fff; padding: 10px 18px; border-radius: 6px; text-decoration: none; color: #fff; font-weight: 600; font-size: 14px; line-height: 1; margin-right: 10px;" href="index.php/about-us"> Know Us More </a> <a style="display: inline-block; background-color: #0d4f; padding: 10px 18px; border-radius: 6px; text-decoration: none; color: #fff; font-weight: 600; font-size: 14px; line-height: 1;" href="#"> Join Jamure </a></div>
+</section>
+<p><br /><br /><br /><br /></p>
+<hr />
+<p><br /><br /><br /><br /></p>
+<section>
+<h2><strong><span style="font-size: 64px;">About Jamure</span></strong></h2>
+<div style="display: flex; align-items: center; padding: 8px;">
+<div style="padding-right: 32px;"><img style="padding-right: 32px;" src="images/utility icon/katana 1.png" width="&quot;500px" /></div>
+<div>
+<h3>Refine your Skills</h3>
+<p>Forge yourself as a tempered blade, reach the utmost heights of your potentials with jamure battlefields.</p>
+</div>
+</div>
+<div style="display: flex; align-items: center; padding: 8px;">
+<div>
+<h3>Earn and Learn Simultaneously</h3>
+<p> master your skills in the battlefield, and turn them into income through real projects. jamure bridges learning and earning so your growth never goes unpaid.</p>
+</div>
+<div style="padding-right: 32px;"><img style="padding-right: 32px;" src="images/utility icon/save-money.png" width="&quot;500px" /></div>
+</div>
+<div style="display: flex; align-items: center; padding: 8px;">
+<div style="padding-right: 32px;"><img style="padding-right: 32px;" src="images/utility icon/customer-review.png" width="&quot;500px" /></div>
+<div>
+<h3>Win Obstacles through community</h3>
+<p> Jamure's community stands beside you, to help you solving problems, stay motivated and keep improving</p>
+</div>
+</div>
+<br /><br /><br /><br /><hr /><br /><br /><br /><br /></section>
+<section><strong><span style="font-size: 64px;">FAQ</span></strong>
+<div style="background: #f5f5f5; padding: 25px 22px; max-width: 1520px; margin: auto;">
+<h1 style="font-size: 72px; font-weight: 900; color: #000; margin-bottom: 18px; line-height: 1; font-family: Poppins,sans-serif;">FAQ's</h1>
+<div style="display: grid; grid-template-columns: repeat(3,1fr); gap: 8px;">
+<div style="background: #f8f8f8; border-radius: 18px; padding: 18px; min-height: 180px; box-shadow: 0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9); border: 1px solid #d7d7d7;">
+<h3 style="font-size: 24px; font-weight: 800; color: #000; margin-bottom: 12px; font-family: Poppins,sans-serif;">Is jamure is only for indians?</h3>
+<p style="font-size: 18px; line-height: 1.6; color: #111; font-family: Poppins,sans-serif;">Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.</p>
+</div>
+<div style="background: #f8f8f8; border-radius: 18px; padding: 18px; min-height: 180px; box-shadow: 0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9); border: 1px solid #d7d7d7;">
+<h3 style="font-size: 24px; font-weight: 800; color: #000; margin-bottom: 12px; font-family: Poppins,sans-serif;">Is jamure is only for indians?</h3>
+<p style="font-size: 18px; line-height: 1.6; color: #111; font-family: Poppins,sans-serif;">Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.</p>
+</div>
+<div style="background: #f8f8f8; border-radius: 18px; padding: 18px; min-height: 180px; box-shadow: 0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9); border: 1px solid #d7d7d7;">
+<h3 style="font-size: 24px; font-weight: 800; color: #000; margin-bottom: 12px; font-family: Poppins,sans-serif;">Is jamure is only for indians?</h3>
+<p style="font-size: 18px; line-height: 1.6; color: #111; font-family: Poppins,sans-serif;">Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.</p>
+</div>
+<div style="background: #f8f8f8; border-radius: 18px; padding: 18px; min-height: 180px; box-shadow: 0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9); border: 1px solid #d7d7d7;">
+<h3 style="font-size: 24px; font-weight: 800; color: #000; margin-bottom: 12px; font-family: Poppins,sans-serif;">Is jamure is only for indians?</h3>
+<p style="font-size: 18px; line-height: 1.6; color: #111; font-family: Poppins,sans-serif;">Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.</p>
+</div>
+<div style="background: #f8f8f8; border-radius: 18px; padding: 18px; min-height: 180px; box-shadow: 0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9); border: 1px solid #d7d7d7;">
+<h3 style="font-size: 24px; font-weight: 800; color: #000; margin-bottom: 12px; font-family: Poppins,sans-serif;">Is jamure is only for indians?</h3>
+<p style="font-size: 18px; line-height: 1.6; color: #111; font-family: Poppins,sans-serif;">Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.</p>
+</div>
+<div style="background: #f8f8f8; border-radius: 18px; padding: 18px; min-height: 180px; box-shadow: 0 4px 12px rgba(0,0,0,.35), inset 0 1px 2px rgba(255,255,255,.9); border: 1px solid #d7d7d7;">
+<h3 style="font-size: 24px; font-weight: 800; color: #000; margin-bottom: 12px; font-family: Poppins,sans-serif;">Is jamure is only for indians?</h3>
+<p style="font-size: 18px; line-height: 1.6; color: #111; font-family: Poppins,sans-serif;">Yes jamure is specially created for indian native college students who want to implement their skills and earn at the same time.</p>
+</div>
+</div>
+</div>
+</section>
+<p><br /><br /><br /></p>
+<hr />
+<p><br /><br /><br /></p>
+<section>{convertforms 1}</section>
